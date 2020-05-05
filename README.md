@@ -1,1 +1,1 @@
-# Capstone_WeTo
+# WeTo
